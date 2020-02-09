@@ -107,20 +107,18 @@ body {
   }
   
   .logo {
-    width: 140px;
-    margin-top: 10px;
-    padding-left: 20px;
+    width: 90px;
   }
 
   .jacode{
     line-height: 70px;
     padding: 0 20px;
     padding-left: 100px;
-    font-family:cursive;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 35px;
     font-style: bold;
     font-style:italic;
-    color: rgba(165, 53, 9, 0.897);
+    color: purple;
     display: block;
   }
 
@@ -139,7 +137,7 @@ body {
   
   .heading h2 {
     font-weight: normal;
-    color: rgba(165, 53, 9, 0.897);
+    color: purple;
   }
   
   .lesson {
@@ -232,7 +230,7 @@ body {
     font-size: 22px;
     font-style: bold;
     font-style:italic;
-    color: rgba(165, 53, 9, 0.897);
+    color: purple;
   }
   
   footer p {
