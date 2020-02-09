@@ -1,12 +1,12 @@
 # jacode.github.io
 Title and Theme:
-![](images/img1.png)
+![](img1.png)
 
 Courses offered:
-![](images/img2.png)
+![](img2.png)
 
 Login information:
-![](images/img3.png)
+![](img3.png)
 
 Contact information:
-![](images/img4.png)
+![](img4.png)
